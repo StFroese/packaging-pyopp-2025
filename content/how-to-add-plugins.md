@@ -100,7 +100,7 @@ As indicated above, the _main_ reason to create a plugin is to allow users to _d
 
 Your plugin implementation can do very little...
 
-:::{literalinclude} ../../arrow-to-knee/src/arrow_to_knee/plugin.py
+:::{literalinclude} ../arrow-to-knee/src/arrow_to_knee/plugin.py
 :label: code:plugin-impl
 :linenos:
 :lineno-match:
@@ -109,7 +109,7 @@ Your plugin implementation can do very little...
 
 And the `pyproject.toml` entry is also small:
 
-:::{literalinclude} ../../arrow-to-knee/pyproject.toml
+:::{literalinclude} ../arrow-to-knee/pyproject.toml
 :label: code:plugin-meta
 :filename: pyproject.toml
 :lines: 41-43
