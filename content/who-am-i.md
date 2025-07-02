@@ -1,9 +1,9 @@
-+++ { "class": "span-col-blue col-body-outset-right td-align-middle text-medium"}
++++ { "class": "col-body-outset-right"}
 
 # Who am I?
 
 ```{list-table}
-
+:class: td-align-middle span-col-blue text-medium
 - - My name is {span}`Angus Hollands`.
   - :::{div}
     :class: img-rounded-50

@@ -86,7 +86,6 @@
   border-radius: 50%;
 }
 
-/* FIXME: list-table class name */
 .td-align-middle td {
   vertical-align: middle !important;
 }
