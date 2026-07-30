@@ -122,3 +122,13 @@
 html:has(* .h1-text-xl) h1 {
   font-size: 7rem;
 }
+
+span.red * {
+  color: red;
+}
+span.blue * {
+  color: blue;
+}
+span.green * {
+  color: green;
+}

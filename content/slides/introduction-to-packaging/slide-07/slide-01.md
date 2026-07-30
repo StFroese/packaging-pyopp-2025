@@ -4,5 +4,6 @@ site:
   hide_outline: true
 ---
 
+# Objective
 
-
+![](#tip:objective-how-to-scripts)

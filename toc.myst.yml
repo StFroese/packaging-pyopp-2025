@@ -82,9 +82,13 @@ project:
                 - file: content/slides/introduction-to-packaging/slide-06/slide-05.md
                 - file: content/slides/introduction-to-packaging/slide-06/slide-06.md
                 - file: content/slides/introduction-to-packaging/slide-06/slide-07.md
-            - title: How to Define Scripts 🚧
+            - title: How to Define Scripts
               children:
                 - file: content/slides/introduction-to-packaging/slide-07/slide-01.md
+                - file: content/slides/introduction-to-packaging/slide-07/slide-02.md
+                - file: content/slides/introduction-to-packaging/slide-07/slide-03.md
+                - file: content/slides/introduction-to-packaging/slide-07/slide-04.md
+                - file: content/slides/introduction-to-packaging/slide-07/slide-05.md
             - title: Applications vs Libraries
               children:
                 - file: content/slides/introduction-to-packaging/slide-08/slide-01.md

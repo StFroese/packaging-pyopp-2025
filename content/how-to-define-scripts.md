@@ -29,7 +29,7 @@ We can expose this as a CLI application by adding an entry in the `project.scrip
 This is defining a CLI application called `remove-arrow` implemented by the `remove_arrow` function defined in the `arrow_to_knee.cli` _module_. Let's test it out:
 
 ```{code} shell
-:name: code:run-script
+:label: code:run-script
 $ remove-arrow
 It's stuck! Can't remove
 ```
@@ -39,4 +39,5 @@ It's stuck! Can't remove
 We've learned that:
 
 - You can define define `scripts` that can be run in a shell.
+- Scripts should be defined in `functions`!
   ::::
