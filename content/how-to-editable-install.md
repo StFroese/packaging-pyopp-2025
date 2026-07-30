@@ -47,7 +47,7 @@ import pathlib
 import tempfile
 path = os.getcwd()
 tmp_path = pathlib.Path(tempfile.mkdtemp())
-link_src = pathlib.Path(path).parents[3] / "arrow-to-knee"
+link_src = pathlib.Path(path).parent / "arrow-to-knee"
 package_path = (tmp_path / link_src.name)
 package_path.symlink_to(link_src)
 os.chdir(package_path)

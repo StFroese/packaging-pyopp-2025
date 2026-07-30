@@ -8,5 +8,4 @@ ipykernel
 
 # System dependencies
 jupyter-server
-hatch
 
