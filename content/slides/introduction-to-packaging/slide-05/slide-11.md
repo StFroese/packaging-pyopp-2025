@@ -4,6 +4,6 @@ site:
   hide_outline: true
 ---
 
-# Objective
+# Conclusion
 
-![](#tip:objective-how-to-create)
+![](#important:conclusion-how-to-create)

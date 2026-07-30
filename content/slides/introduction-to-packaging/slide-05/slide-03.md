@@ -4,6 +4,6 @@ site:
   hide_outline: true
 ---
 
-# Objective
+# Installing Hatch
 
-![](#tip:objective-how-to-create)
+![](#ex:install-hatch)

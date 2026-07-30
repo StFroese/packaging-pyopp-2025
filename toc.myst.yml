@@ -60,9 +60,19 @@ project:
                 - file: content/slides/introduction-to-packaging/slide-04/slide-05.md
                 - file: content/slides/introduction-to-packaging/slide-04/slide-06.md
                 - file: content/slides/introduction-to-packaging/slide-04/slide-07.md
-            - title: Define a Package 🚧
+            - title: Define a Package
               children:
                 - file: content/slides/introduction-to-packaging/slide-05/slide-01.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-02.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-03.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-04.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-05.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-06.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-07.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-08.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-09.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-10.md
+                - file: content/slides/introduction-to-packaging/slide-05/slide-11.md
             - title: How to Add Dependencies 🚧
               children:
                 - file: content/slides/introduction-to-packaging/slide-06/slide-01.md

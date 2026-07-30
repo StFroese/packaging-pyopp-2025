@@ -4,6 +4,6 @@ site:
   hide_outline: true
 ---
 
-# Objective
+# Choosing a path
 
-![](#tip:objective-how-to-create)
+![](#note:one-way)

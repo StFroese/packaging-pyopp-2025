@@ -23,6 +23,7 @@ project:
 site:
   template: book-theme
   options:
+    folders: true
     logo_text: Packaging in Python
     logo: media/logo.png
     style: ./style.css

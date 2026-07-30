@@ -4,6 +4,6 @@ site:
   hide_outline: true
 ---
 
-# Objective
+# Tweak the result
 
-![](#tip:objective-how-to-create)
+![](#ex:add-project-metadata)
