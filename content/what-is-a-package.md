@@ -120,7 +120,7 @@ We learned that the PyPA call this a {term}`distribution package`. You can _easi
 
 :::{figure} ../media/you-wouldnt-download-a-package.png
 :label: fig:you-wouldnt
-A very important disclaimer from the 2000s, about packaging.
+A very important disclaimer from the 2000s, about packaging. See [the original advert for anti-piracy](https://en.wikipedia.org/wiki/You_Wouldn%27t_Steal_a_Car).
 :::
 
 ```{code-cell} python3
