@@ -47,6 +47,7 @@
           pre-commit
           # Dev deps
           mystmd
+          hatch
         ]);
       # Unset these unwanted env vars
       # PYTHONPATH bleeds from Nix Python packages
