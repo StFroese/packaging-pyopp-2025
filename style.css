@@ -108,12 +108,12 @@
       }
     }
     /* Hide primary nav */
-    div:has(> nav) {
+    div:has(> .myst-top-nav-bar) {
       display: none;
     }
 
     /* Hide the buttons */
-    main > :last-child {
+    main > .myst-footer-links {
       display: none;
     }
   }
