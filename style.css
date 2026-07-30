@@ -108,12 +108,12 @@
       }
     }
     /* Hide primary nav */
-    div:has(> .myst-top-nav-bar) {
+    div:has(.myst-top-nav-bar) {
       display: none;
     }
 
     /* Hide the buttons */
-    main > .myst-footer-links {
+    main .myst-footer-links {
       display: none;
     }
   }

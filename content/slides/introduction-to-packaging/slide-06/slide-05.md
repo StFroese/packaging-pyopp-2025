@@ -4,6 +4,6 @@ site:
   hide_outline: true
 ---
 
-# Objective
+# Why optional dependencies?
 
-![](#tip:objective-how-to-depend)
+![](#tip:why-optional)

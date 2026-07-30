@@ -71,6 +71,7 @@ plot = ["matplotlib"]
 Users can then request these extra dependencies when installing your package:
 
 ```{code} shell
+:label: code:request-extra
 pip install arrow-to-knee[plot]
 ```
 
@@ -96,6 +97,7 @@ Recently, Python gained the ability to define _dependency groups_. They are defi
 
 ```{code} toml
 :filename: pyproject.toml
+:label: code:dep-groups
 [dependency-groups]
 dev = ["pytest", "requests"]
 ```

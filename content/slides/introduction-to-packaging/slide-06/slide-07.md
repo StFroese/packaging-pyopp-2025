@@ -4,6 +4,6 @@ site:
   hide_outline: true
 ---
 
-# Objective
+# Conclusion
 
-![](#tip:objective-how-to-depend)
+![](#important:conclusion-how-to-depend)
