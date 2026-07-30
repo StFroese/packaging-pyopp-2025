@@ -44,8 +44,9 @@ When people write packages, they often start with "permissive" uncapped dependen
 
 ```{code} toml
 :filename: pyproject.toml
+:label: code:loose-deps
 :linenos:
-:emphasize-lines: 4
+:emphasize-lines: 5
 [project]
 name = "arrow-to-knee"
 version = "1.0.0"
@@ -59,7 +60,8 @@ Then, they discover that a new version of their dependency is incompatible with 
 ```{code} toml
 :filename: pyproject.toml
 :linenos:
-:emphasize-lines: 4
+:label: code:strict-deps
+:emphasize-lines: 5
 [project]
 name = "arrow-to-knee"
 version = "1.0.1"

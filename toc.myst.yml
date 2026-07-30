@@ -92,6 +92,13 @@ project:
             - title: Applications vs Libraries
               children:
                 - file: content/slides/introduction-to-packaging/slide-08/slide-01.md
+                - file: content/slides/introduction-to-packaging/slide-08/slide-02.md
+                - file: content/slides/introduction-to-packaging/slide-08/slide-03.md
+                - file: content/slides/introduction-to-packaging/slide-08/slide-04.md
+                - file: content/slides/introduction-to-packaging/slide-08/slide-05.md
+                - file: content/slides/introduction-to-packaging/slide-08/slide-06.md
+                - file: content/slides/introduction-to-packaging/slide-08/slide-07.md
+                - file: content/slides/introduction-to-packaging/slide-08/slide-08.md
         - title: Advanced Packaging
           children:
             - title: Plugins
