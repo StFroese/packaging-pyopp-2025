@@ -1,5 +1,6 @@
 # Kernel environment
-numpy
+# We want an older version with a super long license for effect
+numpy<=2.3.0
 # Use a local install of our package
 -e ./arrow-to-knee
 
