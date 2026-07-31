@@ -1,8 +1,7 @@
-+++ { "class": "col-body-outset-right"}
-
 # Who am I?
 
 ```{list-table}
+:label: table:who-am-i
 :class: td-align-middle span-col-blue text-medium
 - - My name is {span}`Angus Hollands`.
   - :::{div}

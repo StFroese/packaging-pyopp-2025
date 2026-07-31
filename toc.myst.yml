@@ -21,6 +21,8 @@ project:
         - file: content/pick-your-files.md
     - title: Slides
       children:
+        - title: Who am I?
+          file: content/slides/who-am-i.md
         - title: Introduction to Packaging
           children:
             - title: What is a Package?
