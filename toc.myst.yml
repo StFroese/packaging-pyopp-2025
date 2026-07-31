@@ -99,6 +99,9 @@ project:
                 - file: content/slides/introduction-to-packaging/slide-08/slide-06.md
                 - file: content/slides/introduction-to-packaging/slide-08/slide-07.md
                 - file: content/slides/introduction-to-packaging/slide-08/slide-08.md
+            - title: Publishing a package
+              children:
+                - pattern: content/slides/introduction-to-packaging/slide-09/slide-*.md
         - title: Advanced Packaging
           children:
             - title: Plugins
