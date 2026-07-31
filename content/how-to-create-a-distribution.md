@@ -109,6 +109,8 @@ This is a fragile operation, and might not succeed. Feel free to ask for help
 4. Build system
    :::
 
+(sec:build-distribution)=
+
 ## Build your first distributions
 
 With our basic project scaffolding, we have all the pieces required to build our first distributions! The `hatch build` command does everything we need:
