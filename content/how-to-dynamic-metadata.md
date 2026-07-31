@@ -23,7 +23,7 @@ name = "arrow-to-knee" # required!
 version = "1.0.0"      # required!
 ```
 
-As a {term}`build front end`, Hatch provides a nice CLI to find out the current package version:
+As a {term}`build frontend`, Hatch provides a nice CLI to find out the current package version:
 
 ```{code} shell
 :label: code:hatch-version-get

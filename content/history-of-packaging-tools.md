@@ -49,7 +49,7 @@ This introduces a lot of new terms:
 Build backend
 : A tool for use by machines that creates (builds) {term}`source distributions<source distribution>` and {term}`binary distributions<binary distribution>`.
 
-Build front end
+Build frontend
 : A user-friendly tool that invokes the appropriate {term}`build backend` for a given directory containing a Python source tree.
 
 Package installer
@@ -63,7 +63,7 @@ Which can help us to understand the status quo:
 
 - Package _authors_ can pick from a range of {term}`build backends<build backend>` (e.g. `setuptools`).
 - Package _authors_ can (mostly) use the same `pyproject.toml` across {term}`build backends<build backend>`.
-- Package _authors_ can pick from a range of {term}`build front ends<build front end>` (like `build`, or `pip`).
+- Package _authors_ can pick from a range of {term}`build frontends<build frontend>` (like `build`, or `pip`).
 - Package _users_ can pick from a range of {term}`package installers<package installer>` (e.g. `uv`).
   :::
 
