@@ -10,6 +10,8 @@ project:
     PEP: Python Enhancement Proposal
     CLI: Command Line Interface
     DI: Dependency Injection
+    2FA: Two Factor Authentication
+    API: Application Programming Interface
   author:
     name: Angus Hollands
     orcid: 0000-0003-0788-3814
