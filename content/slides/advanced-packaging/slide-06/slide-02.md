@@ -4,10 +4,11 @@ site:
   hide_outline: true
 ---
 
-# Links
+# What is the Web?
 
-:::{seealso} Links
+The web is the most _ubiquitous_ computing platform.
 
-- The [Scientific Python Guide](https://learn.scientific-python.org/development/guides/packaging-compiled) on compiled packaging.
-- The [Scientific Python Cookiecutter](https://github.com/scientific-python/cookie).
-  :::
+- More people have access to a web browser than a computer.
+- All web browsers behave _mostly_ the same.
+- Web browsers can do a lot of interesting things!
+- Zero-install software!

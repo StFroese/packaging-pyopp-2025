@@ -152,24 +152,20 @@ project:
                 - file: content/slides/advanced-packaging/slide-05/slide-05.md
                 - file: content/slides/advanced-packaging/slide-05/slide-06.md
                 - file: content/slides/advanced-packaging/slide-05/slide-07.md
-            - title: Compiled Extensions
+            - title: Packaging for the web
               children:
-                #[[[cog]
-                #
-                # import pathlib
-                # base_indent = ""
-                # for slide in sorted(pathlib.Path("content/slides/advanced-packaging/slide-06/").glob("*.md")):
-                #     print(f"- file: {slide}")
-                #]]]
                 - file: content/slides/advanced-packaging/slide-06/slide-01.md
                 - file: content/slides/advanced-packaging/slide-06/slide-02.md
-                #[[[end]]]
-            - title: Build Plugins
+                - file: content/slides/advanced-packaging/slide-06/slide-03.md
+                - file: content/slides/advanced-packaging/slide-06/slide-04.md
+                - file: content/slides/advanced-packaging/slide-06/slide-05.md
+                - file: content/slides/advanced-packaging/slide-06/slide-06.md
+                - file: content/slides/advanced-packaging/slide-06/slide-07.md
+            - title: Compiled Extensions 🚧
               children: []
-            - title: Packaging for the web
+            - title: Build Plugins 🚧
               children: []
-            - title: Reproducile Builds
-            #  emscripten-forge
-            # pyodide
+            - title: Reproducible Builds 🚧
+              children: []
 
     - file: content/glossary.md

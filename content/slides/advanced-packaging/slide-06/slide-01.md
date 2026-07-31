@@ -7,8 +7,7 @@ site:
 # Objective
 
 :::{tip} Objective
-:label: important:objective-compiled
+:label: important:objective-web
 
-- To learn about the basics of compiled packaging
+- To learn about the ways that Python is deployed to the web
   :::
-  % End up in entry-points.txt, including scripts!
