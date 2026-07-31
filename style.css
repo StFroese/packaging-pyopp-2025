@@ -78,12 +78,21 @@
 }
 
 .text-medium {
-  font-size: 1.5em !important;
+  font-size: 1.2em !important;
 }
 
 /* FIXME: image class name */
-.img-rounded-50 img {
-  border-radius: 50%;
+
+img {
+  &.logo {
+    max-height: 6em;
+  }
+  &.selfie {
+    max-height: 12em;
+  }
+  &.rounded-50 {
+    border-radius: 50%;
+  }
 }
 
 .td-align-middle td {

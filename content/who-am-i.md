@@ -4,15 +4,13 @@
 :label: table:who-am-i
 :class: td-align-middle span-col-blue text-medium
 - - My name is {span}`Angus Hollands`.
-  - :::{div}
-    :class: img-rounded-50
-    ![](../media/angus.jpg)
+  - :::{image .logo .rounded-50} ../media/angus.jpg
     :::
-- - :::{image} ../media/graduation.jpg
-    :width: 50%
+- - :::{image .selfie} ../media/graduation.jpg
     :::
-  - {span}`PhD in Nuclear Structure` from the University of Birmingham, and previous postdoc at Princeton University.
+  - {span}`PhD in Nuclear Structure` from the _University of Birmingham_. Postdoc at _Princeton University_.
 
 - - I'm an {span}`Open Source Applications Engineer` at {span}`2i2c`.
-  - ![](../media/2i2c-logo.webp)
+  - :::{image .logo} ../media/2i2c-logo.webp
+    :::
 ```
