@@ -66,7 +66,7 @@ What's worse than code that someone else wrote?
 
 Code that you wrote, late at night, without documentation because
 
-> the \_code is the documentation
+> the code is the documentation
 
 Is this you?
 :::
